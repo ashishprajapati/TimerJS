@@ -34,11 +34,13 @@ Html to use in your html.erb file:
     <span name="timerjs-ms"></span>
 
 Example : 
-    <span name="timerjs-h"></span> 
-    <span name="timerjs-period" data-up="Morning" data-down="Night"></span> :
-    <span name="timerjs-m"></span> :
-    <span name="timerjs-s"></span> :
-    <span name="timerjs-ms"></span>
+
+        <span name="timerjs-h"></span> 
+        <span name="timerjs-period" data-up="Morning" data-down="Night"></span> :
+        <span name="timerjs-m"></span> :
+        <span name="timerjs-s"></span> :
+        <span name="timerjs-ms"></span>
     
 Result :
-    09 Night : 34 : 56 : 245
+       
+       09 Night : 34 : 56 : 245
